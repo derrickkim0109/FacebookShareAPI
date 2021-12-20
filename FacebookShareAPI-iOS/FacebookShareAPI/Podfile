@@ -6,5 +6,7 @@ target 'FacebookShareAPI' do
   use_frameworks!
 
   # Pods for FacebookShareAPI
- pod 'FacebookSDK'
+ pod 'FacebookShare' 
+ pod 'FBSDKLoginKit'
+
 end
