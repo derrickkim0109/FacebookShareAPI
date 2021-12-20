@@ -37,5 +37,5 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
 
     // Facebook Sharing
-    implementation 'com.facebook.android:facebook-share:[5,6)'
+    implementation 'com.facebook.android:facebook-share:12.1.0'
 }

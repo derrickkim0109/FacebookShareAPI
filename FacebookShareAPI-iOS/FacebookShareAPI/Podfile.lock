@@ -1,0 +1,25 @@
+PODS:
+  - FacebookSDK (11.2.1):
+    - FacebookSDK/AEMKit (= 11.2.1)
+    - FacebookSDK/Basics (= 11.2.1)
+    - FacebookSDK/CoreKit (= 11.2.1)
+    - FacebookSDK/LoginKit (= 11.2.1)
+    - FacebookSDK/ShareKit (= 11.2.1)
+    - FacebookSDK/TVOSKit (= 11.2.1)
+  - FacebookSDK/AEMKit (11.2.1):
+    - FacebookSDK/Basics
+  - FacebookSDK/Basics (11.2.1)
+
+DEPENDENCIES:
+  - FacebookSDK
+
+SPEC REPOS:
+  trunk:
+    - FacebookSDK
+
+SPEC CHECKSUMS:
+  FacebookSDK: b9c123df2ed622faadd8b546632ae8048d1f9b28
+
+PODFILE CHECKSUM: 3ca8fa2f30f09b5a0012ddce774157ea1145907f
+
+COCOAPODS: 1.11.2
